@@ -1,3 +1,3 @@
 # Simple speed reader
 
-![Example](\example\example.gif)
+![Example](https://raw.githubusercontent.com/Modest-as/verbose-waddle/master/example/example.gif)
